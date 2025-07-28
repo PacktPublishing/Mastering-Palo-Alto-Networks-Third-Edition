@@ -74,23 +74,24 @@ By the end of this book, you’ll have the confidence and expertise to manage ev
 
   <li>Logging and Reporting</li>
 
-  <li>Virtual Private Networks and Advanced Protection</li>
+  <li>Virtual Private Networks(VPNs)</li>
+
+  <li>Advanced Protection</li>
 
   <li>Troubleshooting Common Session Issues</li>
 
   <li>A Deep Dive into Troubleshooting</li>
 
-  <li>Cloud-Based Firewall Deployments</li>
+  <li>Cloud-Based Firewall Deployment</li>
 
 </ol>
 </details>
 <details open> 
   <summary><h2>Requirements for this book</summary>
 
-| Chapter  | Software required                                      | OS required                       |
-| -------- | -------------------------------------------------------| ----------------------------------|
-| 1-14     | Azure Account, Docker, Visual Studio Code              | Windows, Mac OS X, and Linux (Any)|
-| 1        | Visual Studio 2019 or 2022                             | Windows, Mac OS X                 |
+| Chapter  | Software required                                                                                                                  | OS required                       |
+| -------- | -----------------------------------------------------------------------------------------------------------------------------------| ----------------------------------|
+| 1-15     | PAN-OS 11.2, Palo Alto Firewall hardware PA-440, Panorama VM, USB to RJ-45 Console Cable, Palo Alto Licenses, Strata Cloud Manager | Windows, Mac OS X, and Linux (Any)|
 
   </details>
     
